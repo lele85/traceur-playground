@@ -1,0 +1,31 @@
+{
+  "name": "traceur-playground",
+  "version": "0.0.0",
+  "description": "Personal playground for traceur experiments.",
+  "main": "app.js",
+  "dependencies": {
+    "traceur": "~0.0.82"
+  },
+  "devDependencies": {
+    "traceur": "0.0.82"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lele85/traceur-playground.git"
+  },
+  "keywords": [
+    "traceur",
+    "demo",
+    "example",
+    "playground"
+  ],
+  "author": "emanuele.rampichini@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lele85/traceur-playground/issues"
+  },
+  "homepage": "https://github.com/lele85/traceur-playground"
+}
